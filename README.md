@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am C Guru Santosh, Student at NITK Surathkal.  
+I am woking on Deep Learning, ML, AI, Data Science, etc.  
+Check out my Projects, Notes, etc.  
+Reach me out at my LinkedIn: www.linkedin.com/in/santosh-gs  
+(Please mention a note that you came from GitHub while sending connection request)
+
 <!--
 **Santosh-GS/Santosh-GS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
