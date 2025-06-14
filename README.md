@@ -33,7 +33,7 @@ AI Tools: Ollama, LM Studio, Hugging Face, MCP, RAG, LangChain, LangGraph
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
   <a href="https://github.com/modelcontextprotocol" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="model context protocol" width="40" height="40"/> </a>
-  <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png" alt="ollama" width="40" height="40"/> </a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyCfJer0AmjQYTpIc3ApL1xL5nUd-ccd5hmw&s" alt="ollama" width="40" height="40"/> </a>
   <a href="https://lmstudio.ai/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/133744619?s=280&v=4" alt="lm studio" width="40" height="40"/> </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/681b1c8ea1f7435322e41d7f_78fcd12986d8e3be598f36c8bf2af9b9_Frame%2099808.svg" alt="langchain" width="60" height="50"/> </a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/681b1dce798a52b2ea8f21de_icons-1.svg" alt="langgraph" width="60" height="50"/> </a>
